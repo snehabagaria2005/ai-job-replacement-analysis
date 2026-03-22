@@ -5,9 +5,10 @@ Exploratory Data Analysis and Machine Learning on AI-driven job displacement
 across 9 countries, 8 industries and 15,000 records from 2020 to 2026.
 
 Files
-- 'ai_job_replacement_2020_2026_py' — EDA notebook (13 charts + analysis)
+- 'ai_job_replacement_2020_2026.py' — EDA notebook (13 charts + analysis)
 - 'ai_job_replacement_2020_2026_v2.csv' — Dataset (15,000 records)
 - 'ai_job_replacement_2020_2026.pdf' — Full project report
+- 'AI_JOB_REPLACEMENT_2020_2026.pbit' - Power BI Dashboard
 
 Tools Used
 Python | Pandas | Matplotlib | Seaborn | Sklearn | Power BI
